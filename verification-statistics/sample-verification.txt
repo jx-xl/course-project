@@ -1,0 +1,2 @@
+Bundled normal DBPACK: 5 files packed, imported, restored and compared byte-for-byte, PASS
+Bundled damaged DBPACK: rejected (Package checksum mismatch; damaged file rejected), PASS

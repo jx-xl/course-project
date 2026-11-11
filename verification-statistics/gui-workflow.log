@@ -1,0 +1,23 @@
+2026-11-05 16:29:31 手动备份开始
+2026-11-05 16:29:31 备份成功：Backup completed successfully.
+处理文件：2　跳过文件：4　处理数据：26 字节
+跳过明细：筛选排除 4 个文件；未变化免复制 0 个文件。 输出：C:\Users\谢月滢\Documents\Codex\2026-11-05\ba\outputs\backup-demo\build\test-temp\IsolatedGuiTest-BEEegj\repository\gui-demo-20261105-162931
+2026-11-05 16:29:31 还原成功：Restore completed successfully.
+处理文件：2　跳过文件：0　处理数据：26 字节 输出：C:\Users\谢月滢\Documents\Codex\2026-11-05\ba\outputs\backup-demo\build\test-temp\IsolatedGuiTest-BEEegj\restored
+2026-11-05 16:29:32 创建定时任务：一分钟周期与淘汰演示；保留数量：2
+2026-11-05 16:29:34 定时备份：一分钟周期与淘汰演示
+2026-11-05 16:29:34 备份成功：Backup completed successfully. Retention: removed 0 old snapshot(s); required chain dependencies retained.
+处理文件：2　跳过文件：4　处理数据：26 字节
+跳过明细：筛选排除 4 个文件；未变化免复制 0 个文件。 输出：C:\Users\谢月滢\Documents\Codex\2026-11-05\ba\outputs\backup-demo\build\test-temp\IsolatedGuiTest-BEEegj\repository\gui-demo-20261105-162934
+2026-11-05 16:30:34 定时备份：一分钟周期与淘汰演示
+2026-11-05 16:30:34 备份成功：Backup completed successfully. Retention: removed 1 old snapshot(s); required chain dependencies retained.
+处理文件：2　跳过文件：4　处理数据：26 字节
+跳过明细：筛选排除 4 个文件；未变化免复制 0 个文件。 输出：C:\Users\谢月滢\Documents\Codex\2026-11-05\ba\outputs\backup-demo\build\test-temp\IsolatedGuiTest-BEEegj\repository\gui-demo-20261105-163034
+2026-11-05 16:30:34 打包开始
+2026-11-05 16:30:35 打包成功：Self-contained DBPACK package created; all snapshot dependencies included.
+处理文件：2　跳过文件：0　处理数据：26 字节 输出：C:\Users\谢月滢\Documents\Codex\2026-11-05\ba\outputs\backup-demo\build\test-temp\IsolatedGuiTest-BEEegj\课堂备份包.dbpack
+2026-11-05 16:30:35 解包开始
+2026-11-05 16:30:35 解包成功：Package checksums verified; independent snapshot is ready to restore.
+处理文件：2　跳过文件：0　处理数据：512 字节 输出：C:\Users\谢月滢\Documents\Codex\2026-11-05\ba\outputs\backup-demo\build\test-temp\IsolatedGuiTest-BEEegj\imported\unpacked-20261105-163035
+2026-11-05 16:30:35 还原成功：Restore completed successfully.
+处理文件：2　跳过文件：0　处理数据：26 字节 输出：C:\Users\谢月滢\Documents\Codex\2026-11-05\ba\outputs\backup-demo\build\test-temp\IsolatedGuiTest-BEEegj\restored-from-package

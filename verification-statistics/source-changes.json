@@ -1,0 +1,207 @@
+[
+  {
+    "file": "CMakeLists.txt",
+    "status": "modified",
+    "sha256": "8d0083dab5d7c21311d6f3110720b24f9e34cb36857a444b030443a46948ff52"
+  },
+  {
+    "file": "docs/architecture.md",
+    "status": "modified",
+    "sha256": "d64536ad512dc9773ec3cc1b2c72d805acebf774ccc7b3c7c60b108f3c11df14"
+  },
+  {
+    "file": "docs/archive-format.md",
+    "status": "added",
+    "sha256": "473811d8264f6f4f8eb9c7bebd37ddbc3af70a7b385398ea587e1bbfcbf4e7f7"
+  },
+  {
+    "file": "docs/requirements.md",
+    "status": "modified",
+    "sha256": "aebbc36c8ffff6471f2aca391fe7ba3ae6c3a6b04a631b04d1b9b10cea059a38"
+  },
+  {
+    "file": "include/backup/core/ArchiveManager.h",
+    "status": "added",
+    "sha256": "40bbe53a1b43ad45e0024661c9b44121b5cc2a36b91a6f83edcd6c7f9ae86303"
+  },
+  {
+    "file": "include/backup/core/BackupTypes.h",
+    "status": "modified",
+    "sha256": "11ab8205ec5fff4876a42cf6b9909ae6233ea3f5ad0667e7d9ade71c467d9d5c"
+  },
+  {
+    "file": "include/backup/filter/FilterManager.h",
+    "status": "modified",
+    "sha256": "fa1758d878ed868e3a9b6380176820bc66a2b06af987d49f4f949123c66ba025"
+  },
+  {
+    "file": "include/backup/gui/MainWindow.h",
+    "status": "modified",
+    "sha256": "8b3263dd6cd614c9f465bdc9e933f9d0d84ed1ecb1783426b0514f5777fb957c"
+  },
+  {
+    "file": "README.md",
+    "status": "modified",
+    "sha256": "524fb86e1a8537b348c01d09d30a6d16d6c7504f484a7830a0d888bcb5a038c5"
+  },
+  {
+    "file": "resources/demo/bonus-source/报告-旧版.txt",
+    "status": "added",
+    "sha256": "578fd6028e5455a945a625a432dffa7255a087b6eead9c109659e6ac9dc6ce96"
+  },
+  {
+    "file": "resources/demo/bonus-source/报告-正式版.txt",
+    "status": "added",
+    "sha256": "dc5221779993f353f4658678c0817bb9e345f71428460ca10f626cc70dae0a1a"
+  },
+  {
+    "file": "resources/demo/bonus-source/报告-草稿.txt",
+    "status": "added",
+    "sha256": "23bc16f76b53484bfef795f71b52055788ca8f771402696eee3a262c8a9e2d11"
+  },
+  {
+    "file": "resources/demo/bonus-source/笔记.txt",
+    "status": "added",
+    "sha256": "972e8ce6f4eb4a3239b8b298288240c4aef3ea8239a7e19ff92f4f49382738ea"
+  },
+  {
+    "file": "resources/demo/bonus-source/资料/报告-附录.txt",
+    "status": "added",
+    "sha256": "2a7ee8bc6335188a8a3c5059a1c91a6a1b879131981ca2cacc6322eb86ad991a"
+  },
+  {
+    "file": "resources/demo/incremental-source/不变.txt",
+    "status": "added",
+    "sha256": "d474db84040c5732ba80c39b6da0d7ef833720e0b8b2e6003f7fccb60539e64f"
+  },
+  {
+    "file": "resources/demo/incremental-source/修改.txt",
+    "status": "added",
+    "sha256": "8c4a2a0b15db823737baea25d13d35c34b6ef925ea18ff2f5189c410565d5806"
+  },
+  {
+    "file": "resources/demo/source/cache/cache.txt",
+    "status": "added",
+    "sha256": "b8bcc96448935aa53f9e8f418856e1b28f430870721d2ea9c67be3de101a2ee1"
+  },
+  {
+    "file": "resources/demo/source/debug.log",
+    "status": "added",
+    "sha256": "8fd1b92a776c5fe1a27be49dd304cc0f82491af8e5c8fff3dfd0905d794ad72f"
+  },
+  {
+    "file": "resources/demo/source/docs/notes.txt",
+    "status": "added",
+    "sha256": "702b466101114cc7052d12269bbf658447106c608736bb9ef07987c97f74e81d"
+  },
+  {
+    "file": "resources/demo/source/docs/report.md",
+    "status": "added",
+    "sha256": "5ec2295181989785287ff7bf6f04e7a54fb7fb326a15071e62c59b47c2235ea6"
+  },
+  {
+    "file": "resources/demo/source/large.dat",
+    "status": "added",
+    "sha256": "4689a79943566678fcb6c278d5d219848f85df420e88349ab7e20937390068b5"
+  },
+  {
+    "file": "resources/demo/source/temporary.tmp",
+    "status": "added",
+    "sha256": "5f149d54058fa7cd3c8c4496f3c9a16cc03c48fedf8c8532825028c46f65cb7f"
+  },
+  {
+    "file": "resources/demo/source/示例文档.txt",
+    "status": "added",
+    "sha256": "6d22e6172605b1bc05fd4c5f1d480da6e09de2fa22348f040aeaeb2dadc71541"
+  },
+  {
+    "file": "scripts/Build-Verified.ps1",
+    "status": "added",
+    "sha256": "542482063003379287f4bf3ee6aa14374cd458dc9f7f5045c526e3d2bfac2cb5"
+  },
+  {
+    "file": "scripts/Setup-Environment.ps1",
+    "status": "modified",
+    "sha256": "7d9753eb1136a646211d92ff2807671c9ce396e82aae8d4e0a2c164b2854aaff"
+  },
+  {
+    "file": "src/app/main.cpp",
+    "status": "modified",
+    "sha256": "0f1528096a7d36463ccfa5a8b676347fc5f9b8c6cedf917f76eb7242697b5df3"
+  },
+  {
+    "file": "src/core/ArchiveManager.cpp",
+    "status": "added",
+    "sha256": "933670b5494a84ffc95bcbc320175704da7e6d5095ea05c595829b80361875a8"
+  },
+  {
+    "file": "src/core/BackupStorage.cpp",
+    "status": "modified",
+    "sha256": "280c0694135c423a1655c99bf8cf43582f6fb207cad14612b9d4341c8e2dccc7"
+  },
+  {
+    "file": "src/core/BackupStorage.h",
+    "status": "modified",
+    "sha256": "3932cc6176aa03d6e5199bff174fddb4a6fcd58164f1565b21cc13cc94e21101"
+  },
+  {
+    "file": "src/core/FilesystemBackupManager.cpp",
+    "status": "modified",
+    "sha256": "b81f3d73ea631018dca08350f11a6d8d8ed9ef4fa50b39efe513877cc0e2aa4a"
+  },
+  {
+    "file": "src/filter/DefaultFilterManager.cpp",
+    "status": "modified",
+    "sha256": "eb2af6fcd02e79b9fbc13bd0817eac7d6f4237868b834f3ea1f3f1e76d438861"
+  },
+  {
+    "file": "src/gui/MainWindow.cpp",
+    "status": "modified",
+    "sha256": "ec8c77041913b8224872bc24f130901ea068a7f81ccf6a24fbc978b8b208a7e0"
+  },
+  {
+    "file": "src/scheduler/QtScheduler.cpp",
+    "status": "modified",
+    "sha256": "c211daf1e2d48f875e168aeba96aea1a58a5031ad9d8904c96806a41431902eb"
+  },
+  {
+    "file": "tests/core/ArchiveTest.cpp",
+    "status": "added",
+    "sha256": "f2acf84f597e9b5e13d341a50f8d20fcb170eea6879bfe7e9e2f4340a31f2580"
+  },
+  {
+    "file": "tests/core/RetentionTest.cpp",
+    "status": "added",
+    "sha256": "34ef1a90f2fed4c125b1536769fce074e4fc45323787ce0e275f6970ada1d95f"
+  },
+  {
+    "file": "tests/core/StatisticsTest.cpp",
+    "status": "added",
+    "sha256": "903eb5d9c44a29ab8afbf95f34855b37a539e315e774bce255ab69546ae8c904"
+  },
+  {
+    "file": "tests/filter/FilterManagerTest.cpp",
+    "status": "modified",
+    "sha256": "084e0f163767e6f5d43508bd91ef1b6d955d8a06a096fdeb94423fc46230d1eb"
+  },
+  {
+    "file": "tests/filter/NameTimeFilterTest.cpp",
+    "status": "added",
+    "sha256": "b3633a0139a3dd035b000fef87b31916dc55853ab20abe7360a2fcd3dfc67804"
+  },
+  {
+    "file": "tests/gui/GuiWorkflowTest.cpp",
+    "status": "added",
+    "sha256": "9c65bf30368682e055b4cdbf2e8ead2f2425a64238753d6d23ca2ba537fa949d"
+  },
+  {
+    "file": "tests/gui/README.md",
+    "status": "modified",
+    "sha256": "36ec5cbcd5bb25541a2588edbeb7ed0445e9c636f25806c6d9bbfe7e7bb3521d"
+  },
+  {
+    "file": "tests/scheduler/SchedulerTest.cpp",
+    "status": "modified",
+    "sha256": "ee7284088c74cbaf9d007b202bbf33e42b6914cad30ef5bcc68359e6a2d561ce"
+  }
+]
